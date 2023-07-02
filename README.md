@@ -15,13 +15,11 @@ per the reporting needs.
 
 Author
 -Ramesh Singh- ramesh-kumar.singh@edu.dsti.institute
-
 Mentors
 Gonzalo Etse - gonzaloetjo@gmail.com
 Yanis Bariteau - yanis@adaltas.com
 Guillaume Holdorf - guillaume.h@adaltas.com
-Swagger UI
-http://localhost:4000/swagger/#/
+
 
 How to run the project?
 Checkout the github repo.
