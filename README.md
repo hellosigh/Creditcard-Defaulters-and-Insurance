@@ -12,6 +12,3 @@ Hive are injected using Sqoop for data exchange from DB sources, SFTP/SCP for fi
 platform. Data transformation and processing such as aggregation, filtering, grouping using Hive for 
 Batch data and Phoenix for online data access on Hbase for realtime data aggregation and reporting as 
 per the reporting needs.
-
-
-
